@@ -9,6 +9,8 @@ creator:
     gutenberg_agent_id: '40493'
     url: http://www.gutenberg.org/2009/agents/40493
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/40225#America-Discovered-by-the-Welsh-in-1170-A.D.
 gutenberg_issued: '2012-07-13'
 gutenberg_type: Text
 identifiers:
